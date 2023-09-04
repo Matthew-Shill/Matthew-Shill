@@ -1,4 +1,4 @@
-Hello!! I'm Matt Shill, a junior full-stack web developer with a passion for creating digital experiences. Welcome to my GitHub profile! 🚀
+<center> Hello!! I'm Matt Shill, a junior full-stack web developer with a passion for creating digital experiences. Welcome to my GitHub profile! 🚀 </center>
 
 ## About Me 🧑‍💻
 
