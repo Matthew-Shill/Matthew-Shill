@@ -1,7 +1,7 @@
 <center> Hello!! I'm Matt Shill, a junior full-stack web developer with a passion for creating digital experiences. Welcome to my GitHub profile! 🚀 </center>
 
-##
-##
+<br>
+<br>
 
 ## About Me 🧑‍💻
 
@@ -14,6 +14,8 @@
 - 🎯 Currently completing a Meta Back-end professional certificate on Coursera.
 - 📚 Eager to start my Master's in Computer Science at UC Boulder in the Fall of 2023.
 
+<br>
+
 ## Skills and Tools 🛠️
 
 - **Languages**: Python, SQL, Swift, HTML/CSS, JavaScript
@@ -22,9 +24,13 @@
 - **Version Control**: Git
 - **IDEs**: Visual Studio Code, Xcode
 
+<br>
+
 ## Projects 🚀
 
 Coming Soon!
+
+<br>
 
 ## Let's Connect 🌐
 
@@ -34,6 +40,10 @@ I'm always excited to collaborate with and learn from fellow developers. If you'
 - 💼 LinkedIn: www.linkedin.com/in/mattshill/
 - 🎵 website: www.mattshill.com
 
+<br>
+
 ## Stay Tuned! 🎉
 
 Thank you for visiting my GitHub profile. I'm passionate about web development and constantly seeking ways to grow and contribute to the tech community. Stay tuned for more exciting projects and updates!
+
+<br>
