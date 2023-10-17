@@ -7,7 +7,7 @@
 
 - 🌟 Driven and adaptable professional with a passion for learning and a keen interest in software engineering.
 - 🎵 Background in music and entertainment, experienced in building and managing a successful business while honing communication and interpersonal skills.
-- 🌐 Currently embarked on an exciting journey in software engineering, with proficiency in several languages, including Python, SQL, Swift, HTML/CSS, and JavaScript.
+- 🌐 Currently embarked on an exciting journey in software engineering, with proficiency in several languages, including HTML/CSS, JavaScript, Python, SQL, and Swift.
 - 💼 Familiar with MySQL databases and the Django framework.
 - 🎓 Hold a bachelor's degree in music business from the University of Miami.
 - 📚 Pursued additional courses on Coursera and Codecademy to kickstart my programming journey.
