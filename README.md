@@ -1,4 +1,4 @@
-<center> Hello!! I'm Matt Shill, a junior full-stack web developer with a passion for creating digital experiences. Welcome to my GitHub profile! 🚀 </center>
+<center> Hello!! I'm Matt Shill, a junior full-stack web developer with a passion for creating digital experiences. Welcome to my GitHub profile! </center>
 
 <br>
 <br>
@@ -16,7 +16,7 @@
 
 <br>
 
-## Skills and Tools 🛠️
+## Skills and Tools 
 
 - **Languages**: HTML/CSS, JavaScript(ReactJS, NodeJS), Python(Django), Swift, SQL, NoSQL, MongoDB, Git
 - **IDEs**: Visual Studio Code, Xcode, Android Studio
